@@ -15,4 +15,4 @@ with open(os.path.join(Path(root_folder), Path(yaml_rel_route))) as f:
 
 # Print selected colleague to present:
 print('\n' + "Python has decided that today's Scrum Master will be:" + '\n' + '\n' + random.choice(
-    properties['todays_colleagues']))
+    properties['todays_colleagues']) + ' ;)')
