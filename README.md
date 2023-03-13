@@ -1,5 +1,5 @@
-# assign-scrum-master
-Dear colleagues,
+# Let's assign our Scrum Master for today
+Dear Colleagues,
 
 This repo contains the code to assign daily the Scrum Master of the Finance Competence.
 
